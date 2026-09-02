@@ -1,2 +1,3 @@
 src-bank:1.0.2:Major bug fixes Added society accounts
-src-phone:1.0.5:Call System & Video Call Updates
+src-phone:1.0.6:Fixed the camera viewfinder loading indefinitely by loading the Cfx game renderer.
+Added a smooth, persistent phone size control to the reposition settings.
